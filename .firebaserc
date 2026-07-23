@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "myroute-bfe97"
+  },
+  "targets": {
+    "myroute-bfe97": {
+      "hosting": {
+        "dashboard": [
+          "myrouteadmin-bfe97"
+        ],
+        "app": [
+          "myroute-bfe97"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
